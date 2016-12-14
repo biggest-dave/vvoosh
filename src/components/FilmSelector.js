@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Row, Col, Grid } from 'react-bootstrap';
+
 
 class FilmSelector extends Component {
   render() {
